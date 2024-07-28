@@ -42,3 +42,5 @@ To set up and run this project locally, follow these steps:
 # Login Page
 ![Login Final Image](https://github.com/nayanasawa/Adhyantha-University-/raw/main/loginfinal.JPG)
 
+# Register Page
+![Registration Image](https://github.com/nayanasawa/Adhyantha-University-/raw/main/reg44.JPG)
