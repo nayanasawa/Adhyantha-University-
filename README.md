@@ -32,4 +32,5 @@ To set up and run this project locally, follow these steps:
 ## Output
 ![Homepage Image](https://github.com/nayanasawa/Adhyantha-University-/raw/main/homepage.JPG)
 
+![Gallery Image](https://github.com/nayanasawa/Adhyantha-University-/raw/main/gallery.JPG)
 
