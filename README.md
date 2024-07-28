@@ -24,3 +24,11 @@ To set up and run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/adhyantha-university-website.git
    cd adhyantha-university-website
+
+
+
+
+
+##Output
+![Home Page]([https://github.com/username/repository/blob/main/example.png](https://github.com/nayanasawa/Adhyantha-University-/blob/main/homepage.JPG))
+
