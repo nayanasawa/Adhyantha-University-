@@ -24,10 +24,20 @@ To set up and run this project locally, follow these steps:
    ```bash
    git clone https://github.com/your-username/adhyantha-university-website.git
    cd adhyantha-university-website
+2 **Navigate to the Project Directory
+  cd Adhyantha-University-
 
+3 **Install Dependencies
 
+If there are any additional dependencies or package managers (e.g., npm or yarn), make sure to install them. For example, if using npm:
+npm install
+4 **Open the Project
 
+Open the index.html file in your preferred web browser to view the homepage.
+For a local development server, you might use a tool like Live Server (if using VSCode) or any other static server of your choice.
+5 **Preview the Project
 
+You can view the site by opening index.html in a web browser or by using a local development server.
 
 ## Output
 # Home Page
@@ -44,3 +54,15 @@ To set up and run this project locally, follow these steps:
 
 # Register Page
 ![Registration Image](https://github.com/nayanasawa/Adhyantha-University-/raw/main/reg44.JPG)
+
+
+
+### Notes:
+
+- **Clone URL**: Make sure the `git clone` URL is accurate. I used the repository URL you provided.
+- **Dependencies**: Add installation instructions for any additional dependencies your project might have. If your project does not use any package manager, you can skip the installation step for dependencies.
+- **Viewing the Project**: The instructions to open `index.html` can be replaced with specific commands if using a build tool or development server.
+- **Contact Us Image**: Replace the placeholder URL for the Contact Us page with the correct URL or upload the image to GitHub if it’s missing.
+
+Feel free to adjust any details to better fit your project’s specifics!
+
