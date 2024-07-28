@@ -30,5 +30,5 @@ To set up and run this project locally, follow these steps:
 
 
 ## Output
-![Home Page]([https://github.com/username/repository/blob/main/example.png](https://github.com/nayanasawa/Adhyantha-University-/blob/main/homepage.JPG)
+![Homepage Image](Downloads/homepage.JPG)
 
